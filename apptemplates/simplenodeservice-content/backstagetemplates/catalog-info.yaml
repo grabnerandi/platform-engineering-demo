@@ -14,12 +14,12 @@ metadata:
     - url: https://github.com/grabnerandi/platform-engineering-demo.git
       title: Github Repo
       icon: github
-    - url: https://legendary-space-halibut-7669p44653r7r9-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://legendary-space-halibut-7669p44653r7r9-80.app.github.dev/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
       icon: catalog
-      url: https://legendary-space-halibut-7669p44653r7r9-30100.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+      url: https://legendary-space-halibut-7669p44653r7r9-30100.app.github.dev/applications/argocd/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
     - title: View in Dynatrace
       icon: catalog
       url: https://hci34192.apps.dynatrace.com
