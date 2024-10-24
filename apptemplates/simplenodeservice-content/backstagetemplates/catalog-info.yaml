@@ -14,7 +14,7 @@ metadata:
     - url: https://github.com/grabnerandi/platform-engineering-demo.git
       title: Github Repo
       icon: github
-    - url: https://legendary-space-halibut-7669p44653r7r9-DEMO_APP_PORT_NUMBER_PLACEHOLDER.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
+    - url: https://legendary-space-halibut-7669p44653r7r9-80.GITHUB_CODESPACES_PORT_FORWARDING_DOMAIN_PLACEHOLDER/${{ values.projectName }}-${{ values.teamIdentifier }}-${{ values.releaseStage }}
       title: "Browse Application"
       icon: subject
     - title: View in ArgoCD
